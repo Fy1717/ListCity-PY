@@ -1,0 +1,17 @@
+Gaziantep,GZP,GuneyDoguAnadolu,Baklava,27
+Bursa,BRS,Marmara,Iskender,16
+Denizli,DNZ,Ege,Horoz,20
+Izmır,IZM,Ege,Boyoz,35
+Kirikkale,KRK,IcAnadolu,Savunma,71
+Antalya,ANT,Akdeniz,Turizm,07
+Zonguldak,ZNG,Karadeniz,Komur,67
+Manisa,MNS,Ege,Mesir,45
+Adana,ADN,Akdeniz,Kebap,01
+Nevsehir,NV,IcAnadolu,Kapadokya,50
+Giresun,GRS,Karadeniz,Cay,53
+Sanliurfa,SNF,GuneyDogu,Anadolu,Isot,63
+Ankara,ANK,IcAnadolu,Segmen,06
+Trabzon,TRB,Karadeniz,Tereyag,61
+Edirne,EDN,Marmara,Ciger,22
+Van,VN,DoguAnadolu,Kahvalti,65
+Corum,CRM,Karadeniz,Leblebi,19
